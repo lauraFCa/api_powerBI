@@ -1,0 +1,15 @@
+date,localName,name,countryCode,fixed,global,counties,launchYear,types
+2023-01-01,Confraternização Universal,New Year's Day,BR,True,True,,,['Public']
+2023-02-20,Carnaval,Carnival,BR,False,True,,,"['Bank', 'Optional']"
+2023-02-21,Carnaval,Carnival,BR,False,True,,,"['Bank', 'Optional']"
+2023-04-07,Sexta-feira Santa,Good Friday,BR,False,True,,,['Public']
+2023-04-09,Domingo de Páscoa,Easter Sunday,BR,False,True,,,['Public']
+2023-04-21,Dia de Tiradentes,Tiradentes,BR,True,True,,,['Public']
+2023-05-01,Dia do Trabalhador,Labour Day,BR,True,True,,,['Public']
+2023-06-08,Corpus Christi,Corpus Christi,BR,False,True,,,['Public']
+2023-07-09,Revolução Constitucionalista de 1932,Constitutionalist Revolution of 1932,BR,True,False,['BR-SP'],,['Public']
+2023-09-07,Dia da Independência,Independence Day,BR,True,True,,,['Public']
+2023-10-12,Nossa Senhora Aparecida,Our Lady of Aparecida,BR,True,True,,,['Public']
+2023-11-02,Dia de Finados,All Souls' Day,BR,True,True,,,['Public']
+2023-11-15,Proclamação da República,Republic Proclamation Day,BR,True,True,,,['Public']
+2023-12-25,Natal,Christmas Day,BR,True,True,,,['Public']
